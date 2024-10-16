@@ -1,0 +1,16 @@
+nombreJugador,altura,foto,dorsal,idEquipo,idJugador
+Carlos Pérez,1.80,"carlos_perez.jpg",9,1,101
+Luis Martínez,1.75,"luis_martinez.jpg",10,1,102
+Jorge Ramírez,1.82,"jorge_ramirez.jpg",7,1,103
+Andrés Sánchez,1.78,"andres_sanchez.jpg",4,2,104
+Ricardo Gómez,1.84,"ricardo_gomez.jpg",5,2,105
+Miguel Torres,1.90,"miguel_torres.jpg",8,2,106
+David Herrera,1.76,"david_herrera.jpg",3,3,107
+José Fernández,1.83,"jose_fernandez.jpg",6,3,108
+Iván Gutiérrez,1.88,"ivan_gutierrez.jpg",11,3,109
+Mario López,1.72,"mario_lopez.jpg",2,4,110
+Diego Castro,1.86,"diego_castro.jpg",12,4,111
+Juan Rivas,1.81,"juan_rivas.jpg",14,4,112
+Felipe Rodríguez,1.77,"felipe_rodriguez.jpg",1,5,113
+Tomás Valle,1.85,"tomas_valle.jpg",17,5,114
+Héctor Morales,1.74,"hector_morales.jpg",13,5,115
